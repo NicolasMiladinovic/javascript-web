@@ -18,7 +18,6 @@ function possede(id, classe) {
     }
 }
 
-
 possede("saxophone", "bois"); // Doit afficher true
 possede("saxophone", "cuivre"); // Doit afficher false
 possede("trompette", "cuivre"); // Doit afficher true
